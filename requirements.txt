@@ -1,6 +1,7 @@
 streamlit
-nltk==3.8.1
-numpy==1.23.4
-pandas==1.5.1
-Sastrawi==1.0.1
-scikit-learn==0.24.0
+nltk
+numpy
+pandas
+Sastrawi
+scikit-learn
+re
