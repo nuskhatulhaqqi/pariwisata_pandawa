@@ -160,7 +160,7 @@ with Proses:
    tr_idf_model  = TfidfVectorizer()
    tf_idf_vector = tr_idf_model.fit_transform(hasilpreproses)
    tf_idf_array = tf_idf_vector.toarray()
-   words_set = tr_idf_model.get_feature_names()
+   words_set = tr_idf_model.get_feature_names_out()
    # df_tf_idf = pd.DataFrame(tf_idf_array, columns = words_set)
    # df_tf_idf.to_csv('df_tf_idf.csv' , index=None)
    df_tf_idf = pd.read_csv('df_tf_idf.csv')
