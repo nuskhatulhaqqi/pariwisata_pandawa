@@ -4,4 +4,3 @@ numpy
 pandas
 Sastrawi
 scikit-learn
-re
