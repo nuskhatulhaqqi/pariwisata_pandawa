@@ -23,7 +23,7 @@ with Home:
    st.title("""Klasifikasi Sentimen Wisata Menggunakan Data Google Maps dengan Algoritma SVM (Support Vector Machine)
    (Studi Kasus: Pantai Pandawa Bali )
    """)
-   st.write('Kelompok 2')
+   st.write('Informatika Pariwisata B')
    st.text("""
             1. Theresia Nazela 200411100028
             2. Nuskhatul Haqqi 200411100034   
